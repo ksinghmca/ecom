@@ -16,8 +16,9 @@
     "url": ""
   },
   "scripts": {
-     "scripts": {
-  "test": "vows --spec"
+ "dev": "next",
+    "build": "next build",
+    "start": "next start"
 },
     },
   "homepage": "",
